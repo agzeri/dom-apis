@@ -1,0 +1,159 @@
+{
+  "data": [{
+    "words": [],
+    "solution": ["container.innerHTML = “<h1>Hello</h1>”;"]
+  }, {
+    "words": [],
+    "solution": ["const title = document.querySelector('#title');"]
+  }, {
+    "words": [],
+    "solution": ["if (circle.style.backgroundColor !== 'black');"]
+  }, {
+    "words": [],
+    "solution": ["circle.style.backgroundColor = 'white';"]
+  }, {
+    "words": [],
+    "solution": ["btn.addEventListener('click', fn);"]
+  }, {
+    "words": [],
+    "solution": ["const options = document.querySelectorAll('li');"]
+  }, {
+    "words": [],
+    "solution": ["document.querySelector('button').addEventListener('click', fn);"]
+  }, {
+    "words": [],
+    "solution": ["const arrayOfLinks = [...links];"]
+  }, {
+    "words": [],
+    "solution": ["container.classList.add('active');"]
+  }, {
+    "words": [],
+    "solution": ["element.textContent = 'Hello';"]
+  }, {
+    "words": [],
+    "solution": ["container.classList.add('active');"]
+  }, {
+    "words": [],
+    "solution": ["element.classList.add('show');"]
+  }, {
+    "words": [],
+    "solution": ["box.classList.remove('inactive');"]
+  }, {
+    "words": [],
+    "solution": ["document.querySelector('button').textContent = 'Go ahead';"]
+  }, {
+    "words": [],
+    "solution": ["btn.addEventListener('click', function() {});"]
+  }, {
+    "words": [],
+    "solution": ["button.classList.toggle('show');"]
+  }, {
+    "words": [],
+    "solution": ["const age = parseInt('18');"]
+  }, {
+    "words": [],
+    "solution": ["let numbers = parseInt('198447');"]
+  }, {
+    "words": [],
+    "solution": ["parent.appendChild(child);"]
+  }, {
+    "words": [],
+    "solution": ["container.innerHTML = `<h1>${URL}</h1>`"]
+  }, {
+    "words": [],
+    "solution": ["<form name='loginForm'></form>"]
+  }, {
+    "words": [],
+    "solution": ["<input type='text' placeholder='Username' />"]
+  }, {
+    "words": [],
+    "solution": ["<input type='password' placeholder='Password' />"]
+  }, {
+    "words": [],
+    "solution": ["<button>Save user</button>"]
+  }, {
+    "words": [],
+    "solution": ["const form = document.forms.loginForm;"]
+  }, {
+    "words": [],
+    "solution": ["const form = document.forms.signupForm"]
+  }, {
+    "words": [],
+    "solution": ["const usernameValue = document.querySelector('#username').value;"]
+  }, {
+    "words": [],
+    "solution": ["const passwordValue = document.querySelector('#password').value;"]
+  }, {
+    "words": [],
+    "solution": ["const allButtons = document.querySelectorAll('.parent button')"]
+  }, {
+    "words": [],
+    "solution": ["const arrayOfButtons = [...allButtons];"]
+  }, {
+    "words": [],
+    "solution": ["inputBox.addEventListener('keypress', function() {});"]
+  }, {
+    "words": [],
+    "solution": ["const node = document.createElement('li');"]
+  }, {
+    "words": [],
+    "solution": ["setTimeout(fn, delay);"]
+  }, {
+    "words": [],
+    "solution": ["setTimeout(function() {}, 3000);"]
+  }, {
+    "words": [],
+    "solution": ["setInterval(fn, delay);"]
+  }, {
+    "words": [],
+    "solution": ["setInterval(function() {}, 1000);"]
+  }, {
+    "words": [],
+    "solution": ["const request = superagent;"]
+  }, {
+    "words": [],
+    "solution": ["request.get(URL).then(function() {});"]
+  }, {
+    "words": [],
+    "solution": ["<select><option value='0'>Genre</option></select>"]
+  }, {
+    "words": [],
+    "solution": ["https://api.randomuser.com/v3/users"]
+  }, {
+    "words": [],
+    "solution": ["https://api.randomuser.com/v3/users?page=2"]
+  }, {
+    "words": [],
+    "solution": ["https://restcountries.com/api/v3/countries?language=en-US"]
+  }, {
+    "words": [],
+    "solution": ["https://api.randomuser.com/v3/users?page=1&country=MX"]
+  }, {
+    "words": [],
+    "solution": ["https://api.themoviedb.org/3/movie/top_rated?page=400"]
+  }, {
+    "words": [],
+    "solution": ["`https://api.randomuser.com/v3/users?api_key=${API_KEY}`"]
+  }, {
+    "words": [],
+    "solution": ["https://api.f1.com/champions?order=birthday"]
+  }, {
+    "words": [],
+    "solution": ["document.querySelector('#main-title').style.color = 'red';"]
+  }, {
+    "words": [],
+    "solution": ["users.forEach(function(user) {});"]
+  }, {
+    "words": [],
+    "solution": ["members.forEach(function(member) {});"]
+  }, {
+    "words": [],
+    "solution": ["if (movie.original_language === 'es') { console.log(movie); break; }"]
+  }, {
+    "words": [],
+    "solution": ["const user = users[i];"]
+  }, {
+    "words": [],
+    "solution": ["console.log(document.querySelector('input').value.length);"]
+  }]
+}
